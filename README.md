@@ -1,4 +1,4 @@
-# IOT Phone App Back End
+# IoT Phone App Back End
 
 This is the backend code for the IoT phone app project. This should be installed on the Raspberry Pi and the LED button should be plugged into port D4 on the GrovePi+ board
 
